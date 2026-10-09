@@ -1,0 +1,39 @@
+
+AI-POWERED RESUME–JOB DESCRIPTION MATCHING REPORT
+=================================================
+
+Resume File: ANANYA SHARMA.pdf
+
+OVERALL MATCH SCORE: 57.44%
+TEXT SIMILARITY SCORE: 40.86%
+REQUIRED SKILL COVERAGE: 88.24%
+
+MATCHED SKILLS
+--------------
+communication, data analysis, excel, git, github, machine learning, mysql, numpy, pandas, power bi, python, sql, statistics, tableau, teamwork
+
+MISSING JOB-RELATED SKILLS
+--------------------------
+aws, data visualization
+
+ADDITIONAL RESUME SKILLS
+------------------------
+java, problem solving, scikit-learn, sqlite
+
+JOB DESCRIPTION REQUIREMENTS
+----------------------------
+- # Job Description: Data Analyst  **Job Title:** Data Analyst **Company:** ABC Technologies **Location:** Bengaluru, Karnataka, India **Experience:** Freshers / 0–2 Years **Employment Type:** Full-Time  ## Job Summary  We are looking for a motivated and detail-oriented Data Analyst to collect, clean, analyze, and interpret data to support business decision-making. The ideal candidate should have strong analytical skills and knowledge of Python, SQL, Excel, and data visualization tools.  ## Roles and Responsibilities  * Collect, clean, and preprocess large datasets. * Analyze data to identify trends, patterns, and business insights. * Write SQL queries to retrieve and manage data from databases. * Use Python libraries such as pandas and NumPy for data analysis. * Create dashboards and reports using Power BI or Tableau. * Apply basic statistics and machine learning techniques to analyze data. * Prepare charts and visualizations using Matplotlib. * Communicate analytical findings clearly to team members. * Collaborate with business and technical teams to solve problems.  ## Required Skills  * Programming: Python and SQL. * Data Analysis: pandas, NumPy, Excel, and data cleaning. * Statistics: Descriptive statistics and hypothesis testing. * Machine Learning: Basic knowledge of regression and classification. * Data Visualization: Power BI, Tableau, or Matplotlib. * Databases: MySQL or PostgreSQL. * Tools: Git and GitHub. * Soft Skills: Communication, teamwork, problem-solving, and critical thinking.  ## Educational Qualifications  * Bachelor's degree in Computer Science, Information Technology, Data Science, Statistics, or a related field. * Fresh graduates with relevant academic projects are encouraged to apply.  ## Preferred Qualifications  * Experience with data analysis projects. * Knowledge of machine learning algorithms. * Familiarity with cloud platforms such as AWS or Google Cloud. * A portfolio of projects on GitHub is an advantage.  ## What We Offer  * Learning and career development opportunities. * Opportunities to work on real-world datasets. * A collaborative work environment. * Mentorship from experienced professionals.
+
+IMPROVEMENT SUGGESTIONS
+-----------------------
+1. Review job-related skills not detected in your resume: aws, data visualization. Include them only if you genuinely possess them.
+2. Tailor your professional summary and work experience to the target job description.
+3. Where accurate, quantify your achievements using measurable outcomes.
+4. Use clear headings, consistent formatting, and concise bullet points.
+5. Check spelling and ensure all listed skills accurately reflect your experience.
+
+IMPORTANT NOTE
+--------------
+This score is an approximate text and skill comparison.
+It is not a hiring decision or a guarantee of job suitability.
+Skill extraction depends on the built-in skill vocabulary.
